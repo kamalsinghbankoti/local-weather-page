@@ -1,0 +1,18 @@
+
+.box{
+  background:rgba(225,225,225, 0.6);
+  padding:10px;
+  margin-top:60px;
+  margin-left:210px;
+  margin-right:210px;
+  border-radius:20px;
+}
+.font{
+  font-size:20px;
+}
+h1,h2{
+  font-family:"times new roman"
+}
+#key1,#key2,#key3,#key4,#key5{
+  font-family: Baskerville;
+}
